@@ -1,8 +1,9 @@
-# React + Vite
+# Simulador de Galletas de la Fortuna
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bienvenido al simulador de galletas de la fortuna. Este proyecto te permite abrir una galleta de la fortuna virtual, mostrando mensajes aleatorios con un fondo y autor diferente cada vez que haces clic en un botón.
 
-Currently, two official plugins are available:
+## Características
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Muestra un mensaje aleatorio de la fortuna.
+- El fondo, el mensaje y el autor cambian al hacer clic en un botón.
+- Interfaz simple y amigable.
